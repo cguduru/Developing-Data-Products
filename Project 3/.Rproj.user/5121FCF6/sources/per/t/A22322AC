@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513097546920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1159506146",
+    "id" : "A22322AC",
+    "lastKnownWriteTime" : 1513100969,
+    "last_content_update" : 1513100969267,
+    "path" : "C:/Coursera Project/Developing-Data-Products/Project 3/RandomForest/server.R",
+    "project_path" : "RandomForest/server.R",
+    "properties" : {
+        "cursorPosition" : "93,0",
+        "scrollLine" : "74"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

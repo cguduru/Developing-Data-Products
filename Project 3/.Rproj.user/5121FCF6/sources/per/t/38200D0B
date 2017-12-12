@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513098323936.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3473793777",
+    "id" : "38200D0B",
+    "lastKnownWriteTime" : 1513098362,
+    "last_content_update" : 1513098362076,
+    "path" : "C:/Coursera Project/Developing-Data-Products/Project 3/RandomForest/modelBuilding.R",
+    "project_path" : "RandomForest/modelBuilding.R",
+    "properties" : {
+        "cursorPosition" : "1,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
